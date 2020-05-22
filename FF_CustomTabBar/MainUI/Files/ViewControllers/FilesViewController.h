@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FilesViewController.h
 //  FF_CustomTabBar
 //
 //  Created by chuangku on 2020/5/21.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface FilesViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
